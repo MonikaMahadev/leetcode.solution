@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MonikaMahadev/leetcode.solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3099-harshad-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/3099-harshad-number) |
 ## Simulation
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
