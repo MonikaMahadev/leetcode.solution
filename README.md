@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Queue
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
