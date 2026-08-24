@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0238-product-of-array-except-self) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Euclidean Algorithm
