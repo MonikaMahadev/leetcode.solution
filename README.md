@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
