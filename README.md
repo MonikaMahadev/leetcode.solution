@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0202-happy-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
