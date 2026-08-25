@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0724-find-pivot-index) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1480-running-sum-of-1d-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
