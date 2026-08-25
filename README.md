@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
