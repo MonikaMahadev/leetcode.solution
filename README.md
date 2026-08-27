@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0367-valid-perfect-square) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0342-power-of-four) |
 ## Recursion
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0643-maximum-average-subarray-i) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
@@ -156,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0704-binary-search) |
