@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Pigeonhole Principle
