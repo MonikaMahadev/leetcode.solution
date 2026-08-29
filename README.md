@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -214,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
