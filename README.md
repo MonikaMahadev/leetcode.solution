@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0456-132-pattern) |
 | [0643-maximum-average-subarray-i](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0724-find-pivot-index) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0367-valid-perfect-square) |
+| [0456-132-pattern](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -215,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0739-daily-temperatures) |
 ## String
 |  |
@@ -253,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0876-middle-of-the-linked-list) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
