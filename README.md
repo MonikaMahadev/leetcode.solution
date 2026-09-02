@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0456-132-pattern) |
 | [0643-maximum-average-subarray-i](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0733-flood-fill) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
@@ -378,4 +382,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
