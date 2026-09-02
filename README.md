@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -392,4 +396,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
