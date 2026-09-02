@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0260-single-number-iii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/MonikaMahadev/leetcode.solution/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -366,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
