@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0231-power-of-two) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0198-house-robber) |
