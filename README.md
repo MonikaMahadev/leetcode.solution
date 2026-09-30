@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaMahadev/leetcode.solution/tree/master/0918-maximum-sum-circular-subarray) |
